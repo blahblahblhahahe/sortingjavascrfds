@@ -8,7 +8,7 @@ function merge(arr1, arr2) {
             i++
         }
         else {
-            results.push(arr2[j])
+            results.push(arr2[j])xz
             j++
         }
     }
